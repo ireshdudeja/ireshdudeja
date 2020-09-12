@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### 🧍🏻 About me!
 #### My name is Iresh Dudeja and I'm a student doing *Masters in Computer Science* in Germany @[TU Ilmenau](https://www.tu-ilmenau.de/).
 
 > - 🔭 I’m currently working on project using react-native & aws-amplify!
