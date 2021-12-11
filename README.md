@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### My name is Iresh Dudeja and I'm a student doing *Masters in Computer Science* in Germany @[TU Ilmenau](https://www.tu-ilmenau.de/).
+#### My name is Iresh Dudeja and I'm currently working as Software Developer.
 
 > - 🔭 I’m currently working on project using react-native & aws-amplify!
-> - 🌱 I’m currently learning python, machine-learning!
+> - 🌱 I’m currently learning DevOps tools.
 > - 👯 I’m looking to collaborate on native iOS project using swift!
-> - 🤔 I’m looking for help with blog-writing.
 > - 📫 How to reach me: [twitter.com/iresh_dudeja](https://twitter.com/iresh_dudeja)
 
 ### 👨🏻‍💻 Technologies
